@@ -1,2 +1,1 @@
-# Credit-Calc-05
-Obiektowość
+# Credit-Calc-smarty
